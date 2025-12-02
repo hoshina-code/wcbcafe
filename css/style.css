@@ -238,6 +238,10 @@ img {
         background-image: url(../images/cover-news-l.webp);
     }
 
+    .cover-menu {
+        background-image: url(../images/cover-menu-s.webp);
+    }
+
     .news-contents {
         display:flex;
         justify-content: space-between;
